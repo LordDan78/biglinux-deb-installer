@@ -52,7 +52,7 @@ msgstr ""
 msgid "Cancelar"
 msgstr ""
 
-msgid "Aplicar solução sugerida"
+msgid "Aplicar a solução sugerida"
 msgstr ""
 
 msgid "Carregando..."
@@ -67,10 +67,10 @@ msgstr ""
 msgid "Depende de "
 msgstr ""
 
-msgid " mas não vai ser instalado."
+msgid " mas, não vai ser instalado."
 msgstr ""
 
-msgid "mas não está disponível"
+msgid "mas, não está disponível"
 msgstr ""
 
 msgid "Não é possível prosseguir com a instalação.<br><br>"
@@ -97,11 +97,11 @@ msgstr ""
 msgid "Instalação concluída!"
 msgstr ""
 
-msgid "Aguarde, atualizando lista de pacotes..."
+msgid "Aguarde, atualizando a lista de pacotes..."
 msgstr ""
 
 msgid ""
-"Concluída a atualização de lista de pacotes, tente novamente instalar o "
+"Concluída a atualização da lista de pacotes. Tente novamente instalar o "
 "pacote desejado."
 msgstr ""
 
